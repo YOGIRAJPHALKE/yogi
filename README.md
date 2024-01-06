@@ -1,3 +1,3 @@
 # yogi
 this my first repository<br>
-Author-Yogiraj Phalke
+Author-Yogiraj Suresh Phalke
